@@ -187,7 +187,9 @@ plt.show()
 
 - **Final Test Accuracy:** Test Accuracy: 0.9574
 - **Final Test Loss:** Test Loss: 0.1285
-- **Maximum validation accuracy:** 
+- **Maximum validation accuracy:**
+- ![Screenshot 2025-06-21 211331](https://github.com/user-attachments/assets/897d1432-9877-4779-b59c-710e328ae208)
+
 
 ---
 
@@ -206,6 +208,7 @@ class_index = np.argmax(prediction)
 class_name = list(train_generator.class_indices.keys())[class_index]
 print(f"The image is: {class_name}")
 ```
+![Screenshot 2025-06-21 211245](https://github.com/user-attachments/assets/0b990477-2398-43ad-ba4e-dfc92eb03d50)
 
 ---
 
@@ -216,9 +219,3 @@ Created by [adrivargascouri](https://github.com/adrivargascouri)
 MIT License.
 
 ---
-
-## Notes
-
-- You can extend the network for higher accuracy or add regularization techniques as needed.
-- Remember to fill in your final metrics and real prediction examples after training your model.
-- Pull requests for improvements are welcome!
