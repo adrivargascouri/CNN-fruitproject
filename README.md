@@ -36,7 +36,7 @@ This project implements a Convolutional Neural Network (CNN) using Keras and Ten
 - NumPy
 - Matplotlib
 - Google Colab (for running and Google Drive access)
-- Dataset: [Kaggle Fruits Dataset](https://www.kaggle.com/)
+- Dataset: [Kaggle Fruits-360 Dataset](https://www.kaggle.com/)
 
 ---
 
