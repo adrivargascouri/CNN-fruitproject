@@ -1,4 +1,4 @@
-# CNN Project: Automatic Fruit Classification with Deep Learning
+# CNN Project: Automatic Fruit Classification
 
 This project implements a Convolutional Neural Network (CNN) using Keras and TensorFlow to classify images of fruits. The model can identify the fruit class from 150x150 pixel color images and serves as a solid foundation for inventory apps, smart agriculture, supermarkets, education, and more.
 
